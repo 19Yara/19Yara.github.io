@@ -1,0 +1,241 @@
+
+.nav {
+	
+
+display: inline-block; /*Задаем блочно-строчное отображение*/
+  	width: 131px; /*задаем ширину блока*/
+
+	
+
+margin-left: 10px;
+
+	
+float: left;
+
+
+text-align: center;
+
+
+      }
+
+
+
+
+
+
+
+ .show{
+
+background-color: black;
+	border:#000  ; 
+	padding: 6px 6px 6px;
+	border-radius: 10px;
+	width: 150px;
+	margin-top: 20px ;
+    height: 28px;
+    color: #fff;	
+
+
+}
+
+
+
+   
+
+}
+
+
+
+ button:hover{
+background: rgba(0,0,0,0);
+    color: #fff;
+    box-shadow: inset 0 0 0 3px #3a7999;
+
+}
+  
+/* Убираем отступы */
+/* Убираем отступы */
+*{
+    margin:0;
+    padding:0;
+}
+/* Задаем ширину меню */
+#menu{
+    width:210px;
+    margin:15px;
+}
+/* Стили для наших пунктов меню */
+#menu ul{
+    list-style:none;
+}
+#menu li{
+    list-style:none;
+    display:block;
+    line-height:32px;
+    height:32px;
+    margin:7px 0;
+    width:210px;
+    padding: 0px 0px;
+}
+#menu li a {
+    display:block;
+    height:33px;
+    font-weight:bold;
+    line-height:32px;
+    padding:0;
+    text-decoration:none;
+    color:#000;
+   
+    
+}
+ 
+ /* Подсветка наведденого пункта */
+#menu li a:hover{
+    background: #35C835;
+    color:#fff;
+}
+
+
+
+
+
+ a div:hover{
+	 background: rgba(0,0,0,0);
+    color: green;
+     box-shadow: inset 0 0 0 1px green;
+}
+
+
+
+
+
+
+
+.img1{
+	
+	width: 131px;
+	height: 131px;
+	margin-left: 10px;
+border: 1px solid #E8E8E8;
+	
+float: left;
+margin-top: 10px;
+text-align: center;
+line-height: 165px;
+
+
+
+}
+
+.img2{
+		border: 1px solid #E8E8E8;
+	width: 131px;
+	height: 131px;
+	margin-left: 10px;
+float: left;
+margin-top: 10px;
+text-align: center;
+line-height: 165px
+}
+
+ 
+
+.img3{
+		border: 1px solid #E8E8E8;
+	width: 131px;
+	height: 131px;
+	margin-left: 10px;
+float: left;
+margin-top: 10px;
+text-align: center;
+line-height: 165px
+}
+
+
+
+
+
+
+.text{
+ 
+padding-right: 0px
+
+ background:#fff;
+ margin-top: 75px
+    
+}
+.hara{
+padding-left: 40px;
+
+ margin-top: 75px
+}
+.hara button{
+	background-color:#507d2a;
+			padding: 8px 25px;	
+			color: white;
+			
+			border-radius: 10px;
+
+}
+
+.harach{
+	
+padding-left: 15px;
+}
+
+
+.container{
+    width: 1000px;
+    margin: 0 auto;
+  }
+
+
+
+.column2{
+	margin:16px;
+	float:left;
+     background:#fff;
+    
+   width: 440px;
+  
+
+     border: 1px solid #E8E8E8;
+ margin-right:-5px;
+}
+
+
+.column1{
+	
+     background:#fff;
+  float: left;
+    margin:16px;
+     width: 250px;
+     
+ margin-right:-5px;
+  margin-top: -50px;
+ 
+
+}
+.column3{
+	
+float:left;
+    background:#fff;
+   margin:16px;
+   width: 250px;
+   
+   margin:16px;
+  
+   margin-top: -50px;
+margin-right:-5px;
+}
+.ftp{
+    padding: 15px 25px; /* Расстояние от картинки до рамки */
+    margin-right: 15px; /* Отступ справа */
+    margin-bottom: 5px; /* Отступ снизу */
+    margin-left: 15px
+
+}
+
+
+
+
